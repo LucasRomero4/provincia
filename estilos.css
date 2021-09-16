@@ -1,0 +1,11 @@
+body {
+background-image: url('imagenes/fondo-tucuman.jpg');
+background-attachment: fixed;
+background-size: cover;
+}
+.centrado{
+    text-align: center;
+}
+.pcenter{
+    text-align: center;
+}
