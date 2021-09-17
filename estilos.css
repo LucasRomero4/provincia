@@ -9,3 +9,12 @@ background-size: cover;
 .pcenter{
     text-align: center;
 }
+h2{
+    background-image: url('imagenes/historiatitulo.jpg');
+    background-position: center;
+    color: rgb(205, 232, 236);
+    text-align: center;
+}
+.capitaldescripcion{
+    text-align: center;
+}
