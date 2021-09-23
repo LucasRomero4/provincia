@@ -5,6 +5,9 @@ background-size: cover;
 }
 .centrado{
     text-align: center;
+    font-size: 4em;
+    font-weight: 600;
+
 }
 .pcenter{
     text-align: center;
@@ -17,4 +20,25 @@ h2{
 }
 .capitaldescripcion{
     text-align: center;
+}
+.menucentrado{
+    font-size: 3em;
+    font-weight: 500;
+}
+.imagencap{
+    border-image-width: 3em;
+}
+.gobernadores{
+    font-size: 1em;
+
+}
+.descripciongobernadores{
+    text-align: center;
+    font-size: 0,5em;
+    font-weight: 300;
+}
+.imagenactual{
+    width: 300px;
+    height: 300px;
+    
 }
