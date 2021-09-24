@@ -2,6 +2,7 @@ body {
 background-image: url('imagenes/fondo-tucuman.jpg');
 background-attachment: fixed;
 background-size: cover;
+margin: 0 auto;
 }
 .centrado{
     text-align: center;
@@ -17,6 +18,7 @@ h2{
     background-position: center;
     color: rgb(205, 232, 236);
     text-align: center;
+    background: steelblue;
 }
 .capitaldescripcion{
     text-align: center;
@@ -25,20 +27,43 @@ h2{
     font-size: 3em;
     font-weight: 500;
 }
-.imagencap{
-    border-image-width: 3em;
+.imagcap{
+    width: 200px;
+    height: 100px;
+    text-align: center;
 }
 .gobernadores{
-    font-size: 1em;
+    font-size: 2em;
+    width: 1000px;
+    height: 500px;
+    border: steelblue solid 10px;
+    margin: 0 auto;
+    
+
 
 }
 .descripciongobernadores{
     text-align: center;
-    font-size: 0,5em;
+    font-size: 3em;
     font-weight: 300;
+    border-bottom: steelblue solid 10px;
 }
-.imagenactual{
-    width: 300px;
-    height: 300px;
-    
+.gobernadoresimagen{
+    width: 150px;
+    height: 120px;
+    text-align: center;
+}
+.clima{
+    font-size: 2em;
+    font-weight: 500;
+}
+.imagenclima{
+    text-align: center;
+}
+.gobernadores td{
+    border: steelblue solid 2px;
+}
+/*footer*/
+footer p{
+    text-align: unset;
 }
