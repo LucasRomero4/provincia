@@ -12,6 +12,7 @@ margin: 0 auto;
 }
 .pcenter{
     text-align: center;
+    font-size: 1cm;
 }
 h2{
     background-image: url('imagenes/historiatitulo.jpg');
@@ -26,6 +27,7 @@ h2{
 .menucentrado{
     font-size: 3em;
     font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .imagcap{
     width: 200px;
@@ -64,6 +66,54 @@ h2{
     border: steelblue solid 2px;
 }
 /*footer*/
-footer p{
-    text-align: unset;
+.cet30{
+    font-family: monospace;
+    text-align:center;
+    font-size: 7mm;
+}
+.menudecontenido{
+    font-size: 2em;
+}
+footer{
+    background-color: whitesmoke;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    
+}
+.nombrefot{
+    font-family: monospace;
+    text-align: center;
+    font-size: 8mm;
+}
+.logocet{
+    text-align: center;
+}
+.volvermenu{
+    font-size: 2em;
+}
+.actividadesprimarias{
+    border: steelblue solid;
+}
+.actividadesprimarias td{
+    border: steelblue solid;
+}
+.actividadesecundarias{
+    border: steelblue solid;
+}
+.actividadesecundarias td{
+    border: steelblue solid;
+}
+.otrasindustrias{
+    border: steelblue solid;
+
+}
+.otrasindustrias td{
+    border: steelblue solid;
+}
+.citricola{
+    border: steelblue solid;
+}
+.citricola td{
+    border: steelblue solid;
 }
